@@ -14,7 +14,7 @@ https://code.earthengine.google.com/24867da22b219f22ae1c653ae590f286
 ## Training data
 
 ## 2. Models
-## Convolutional neural networks - segmentation (UNet)
+## Convolutional neural networks - semantic segmentation (UNet)
 - To train CNN, use a python platform and the folder 
 - 
 ## Random forests
