@@ -8,8 +8,6 @@ https://code.earthengine.google.com/e43dc60380c7c127d17886802a92ad47
 ## CCDC features
 https://code.earthengine.google.com/936a98293f7f0679e6e29c0e29a2dab5
 
-## Topographic features
-https://code.earthengine.google.com/24867da22b219f22ae1c653ae590f286
 
 ## Training data
 
