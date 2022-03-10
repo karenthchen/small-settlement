@@ -10,6 +10,7 @@ https://code.earthengine.google.com/936a98293f7f0679e6e29c0e29a2dab5
 
 
 ## Training data
+https://www.dropbox.com/sh/4x06q33g6a7291s/AAC5MeOwsPDuuYEvQYue5fwBa?dl=0
 
 ## 2. Models
 ## Convolutional neural networks - semantic segmentation (UNet)
