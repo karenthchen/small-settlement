@@ -5,6 +5,11 @@
 ## Multispectral image time series
 https://code.earthengine.google.com/e43dc60380c7c127d17886802a92ad47
 
+-Loop over the study regions by small ROI:
+upload fishnet to GEE
+https://www.dropbox.com/s/yemtlof19iv9tdf/fishnetLS4_correctutm_HKH.zip?dl=0
+
+
 ## CCDC features
 https://code.earthengine.google.com/936a98293f7f0679e6e29c0e29a2dab5
 
