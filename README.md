@@ -1,5 +1,8 @@
 # Deep learning or conventional machine learning: Which method is better at characterizing small-scale urban change?
 
+Note: This repository is now available for review process and will be publicly avialbale once the paper is published.
+
+
 ## 1. Data collection
 
 ## Multispectral image time series
