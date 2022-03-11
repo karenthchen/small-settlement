@@ -14,13 +14,16 @@ https://www.dropbox.com/sh/4x06q33g6a7291s/AAC5MeOwsPDuuYEvQYue5fwBa?dl=0
 
 ## 2. Models
 ## Convolutional neural networks - semantic segmentation (UNet)
-- To train CNN, use a python platform and the folder 
-- 
+- Use python (jupyter notebook recommended)
+- Run segmentation_regression_CCDC.ipynb
+
 ## Random forests
-- To train RF, use a R platform and the code
-- 
+- Use R
+- Run RF&ML.R (sections 1 and 2)
+
 ## Maximum likelihood
-- To train the maximum likelihood model, use a R platform and run the code
+- Use R
+- Run RF&ML.R (sections 3 and 4)
 
 
 
