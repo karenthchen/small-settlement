@@ -22,7 +22,9 @@ https://www.dropbox.com/sh/4x06q33g6a7291s/AAC5MeOwsPDuuYEvQYue5fwBa?dl=0
 ## 2. Models
 ## Convolutional neural networks - semantic segmentation (UNet)
 - Use python (jupyter notebook recommended)
-- Run segmentation_regression_CCDC.ipynb
+- Run segmentation_regression_multispectral.ipynb for using raw image as input (the best model)
+- Run segmentation_regression_CCDC.ipynb for using CCDC as input
+
 
 ## Random forests
 - Use R
