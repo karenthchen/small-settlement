@@ -1,4 +1,4 @@
-# Deep learning or conventional machine learning: Which method is better at characterizing small-scale urban change?
+# Mapping mountain settlements using a convolutional neural network: a subpixel approach
 
 Note: This repository is now available for review process and will be publicly avialbale once the paper is published.
 
@@ -33,9 +33,6 @@ https://www.dropbox.com/sh/4x06q33g6a7291s/AAC5MeOwsPDuuYEvQYue5fwBa?dl=0
 - Use R
 - Run RF&ML.R (sections 1 and 2)
 
-## Maximum likelihood
-- Use R
-- Run RF&ML.R (sections 3 and 4)
 
 
 
