@@ -1,7 +1,8 @@
 # Mapping mountain settlements using a convolutional neural network: a subpixel approach
 
-Note: This repository is now available for review process and will be publicly avialbale once the paper is published.
-
+Note: Please find methods and details about the repository from our open-access paper:
+Chen, T. H. K., Pandey, B., & Seto, K. C. (2023). Detecting subpixel human settlements in mountains using deep learning: A case of the Hindu Kush Himalaya 1990–2020. Remote Sensing of Environment, 294, 113625.
+https://doi.org/10.1016/j.rse.2023.113625
 
 ## 1. Data collection
 
