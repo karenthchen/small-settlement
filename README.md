@@ -35,5 +35,9 @@ https://www.dropbox.com/sh/4x06q33g6a7291s/AAC5MeOwsPDuuYEvQYue5fwBa?dl=0
 - Run RF&ML.R (sections 1 and 2)
 
 
-
+## 3. Research output: Fractional built-up area map for the Himalaya (India, Nepal, and Bhutan)
+- GeoTiff at 30m resolution
+- Years: 1990-2000
+- Range from 0 to 10000, representing 0 and 100%, respectively. Scale factor: 10000
+- Download: https://drive.google.com/drive/folders/1WPzRncNobwkVlYPjEk1ag4Y4kdRNtElQ?usp=sharing
 
